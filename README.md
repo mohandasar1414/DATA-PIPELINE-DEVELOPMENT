@@ -20,4 +20,5 @@
  generation, we must cope with each and every piece of information or data we get. When we usually hear about pipelines, we suddenly think about those natural gas and oil 
  pipelines that carry those resources from one location to another over long distances. But here we are going to know about the data pipelines. Overall, a well-designed data 
  pipeline is crucial for organizations to leverage their data effectively, support decision-making, and gain insights that drive business success. A data pipeline is a series of processes and tools used to collect, process, and deliver data from various sources to a destination where it can be analyzed and used. It involves several steps, including data ingestion, transformation, and storage, to ensure that data is ready for analysis and decision-making.
- #output:[ C:\Users\My PC\OneDrive\Desktop\dataPP.webp ]()
+ #output:[ C:\Users\My PC\OneDrive\Desktop\dataPP.webp ]() 
+
